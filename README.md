@@ -19,5 +19,3 @@ OPENAI_MODEL=qwen3-coder-30b-a3b-instruct@q6_k
 `
 
 in a .env it does take a while and I still haven't gotten the local tools working.
-
-![Gpu Shared Memory Usage](capture (2).png) It's not even hitting near the maximum on a decent workload.
